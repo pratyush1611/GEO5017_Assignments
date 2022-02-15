@@ -1,0 +1,11 @@
+name: geo5017
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - jupyter
+  - notebook
+prefix: /home/z_book/miniconda3/envs/geo5017
