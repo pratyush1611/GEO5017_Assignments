@@ -8,4 +8,5 @@ dependencies:
   - pandas
   - jupyter
   - notebook
+  - scipy
 prefix: /home/z_book/miniconda3/envs/geo5017
