@@ -9,4 +9,6 @@ dependencies:
   - jupyter
   - notebook
   - scipy
+  - seaborn
+  - scikit-learn
 prefix: /home/z_book/miniconda3/envs/geo5017
